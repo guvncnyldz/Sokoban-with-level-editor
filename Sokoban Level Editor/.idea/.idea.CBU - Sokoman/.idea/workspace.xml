@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a507de77-9563-43fa-a998-7eff9c6b13ff" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/CBU/Script/AG_Player.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="752">
+              <caret line="94" column="25" selection-start-line="94" selection-start-column="25" selection-end-line="94" selection-end-column="25" />
+              <folding>
+                <marker date="1553187467149" expanded="false" signature="6:78" ph="..." />
+                <marker date="1553187467149" expanded="true" signature="118:2388" ph="{...}" />
+                <marker date="1553187467149" expanded="true" signature="290:335" ph="{...}" />
+                <marker date="1553187467149" expanded="true" signature="361:804" ph="{...}" />
+                <marker date="1553187467149" expanded="true" signature="559:641" ph="{...}" />
+                <marker date="1553187467149" expanded="true" signature="723:798" ph="/* if (timer &gt;= .35f) ... */" />
+                <marker date="1553187467149" expanded="true" signature="806:1045" ph="/* private void MoveAnimation() ... */" />
+                <marker date="1553187467149" expanded="true" signature="1075:1583" ph="{...}" />
+                <marker date="1553187467149" expanded="true" signature="1128:1202" ph="{...}" />
+                <marker date="1553187467149" expanded="true" signature="1252:1327" ph="{...}" />
+                <marker date="1553187467149" expanded="true" signature="1377:1452" ph="{...}" />
+                <marker date="1553187467149" expanded="true" signature="1503:1577" ph="{...}" />
+                <marker date="1553187467149" expanded="true" signature="1638:2049" ph="{...}" />
+                <marker date="1553187467149" expanded="true" signature="1693:2004" ph="{...}" />
+                <marker date="1553187467149" expanded="true" signature="1823:1948" ph="{...}" />
+                <marker date="1553187467149" expanded="true" signature="2091:2143" ph="{...}" />
+                <marker date="1553187467149" expanded="true" signature="2146:2386" ph="/* private void StillMove(int x, int y, int posx, int posy) ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/CBU/Script/AG_Box.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="32">
+              <caret line="4" column="32" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="32" />
+              <folding>
+                <marker date="1553177556949" expanded="false" signature="6:78" ph="..." />
+                <marker date="1553177556949" expanded="true" signature="112:559" ph="{...}" />
+                <marker date="1553177556949" expanded="true" signature="178:557" ph="{...}" />
+                <marker date="1553177556949" expanded="true" signature="247:512" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/CBU/Script/AG_Objects.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="64">
+              <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="42" />
+              <folding>
+                <marker date="1553187394941" expanded="false" signature="6:78" ph="..." />
+                <marker date="1553187394941" expanded="true" signature="128:1401" ph="{...}" />
+                <marker date="1553187394941" expanded="true" signature="220:521" ph="{...}" />
+                <marker date="1553187394941" expanded="true" signature="578:1240" ph="{...}" />
+                <marker date="1553187394941" expanded="true" signature="633:1195" ph="{...}" />
+                <marker date="1553187394941" expanded="true" signature="763:1139" ph="{...}" />
+                <marker date="1553187394941" expanded="true" signature="834:904" ph="{...}" />
+                <marker date="1553187394941" expanded="true" signature="966:1035" ph="{...}" />
+                <marker date="1553187394941" expanded="true" signature="1056:1125" ph="{...}" />
+                <marker date="1553187394941" expanded="true" signature="1281:1333" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/CBU/Script/AG_Target.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="20" />
+              <folding>
+                <marker date="1553179462981" expanded="false" signature="6:97" ph="..." />
+                <marker date="1553179462981" expanded="true" signature="134:497" ph="{...}" />
+                <marker date="1553179462981" expanded="true" signature="234:267" ph="{...}" />
+                <marker date="1553179462981" expanded="true" signature="286:495" ph="{...}" />
+                <marker date="1553179462981" expanded="true" signature="377:426" ph="{...}" />
+                <marker date="1553179462981" expanded="true" signature="439:489" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/CBU/Script/AG_Wall.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="64">
+              <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+              <folding>
+                <marker date="1553183103134" expanded="false" signature="6:78" ph="..." />
+                <marker date="1553183103134" expanded="true" signature="114:202" ph="{...}" />
+                <marker date="1553183103134" expanded="true" signature="177:199" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/CBU/Script/AG_MovementTest.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1553184066872" expanded="false" signature="6:78" ph="..." />
+                <marker date="1553184066872" expanded="true" signature="124:526" ph="{...}" />
+                <marker date="1553184066872" expanded="true" signature="184:524" ph="{...}" />
+                <marker date="1553184066872" expanded="true" signature="227:375" ph="{...}" />
+                <marker date="1553184066872" expanded="true" signature="249:305" ph="{...}" />
+                <marker date="1553184066872" expanded="true" signature="325:367" ph="{...}" />
+                <marker date="1553184066872" expanded="true" signature="382:419" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/CBU/Script/AG_Grid.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="217">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+              <folding>
+                <marker date="1553187429480" expanded="false" signature="6:78" ph="..." />
+                <marker date="1553187429480" expanded="true" signature="116:2327" ph="{...}" />
+                <marker date="1553187429480" expanded="true" signature="352:1121" ph="{...}" />
+                <marker date="1553187429480" expanded="true" signature="445:1115" ph="{...}" />
+                <marker date="1553187429480" expanded="true" signature="496:1105" ph="{...}" />
+                <marker date="1553187429480" expanded="true" signature="1173:1313" ph="{...}" />
+                <marker date="1553187429480" expanded="true" signature="1386:2325" ph="{...}" />
+                <marker date="1553187429480" expanded="true" signature="1518:2319" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/CBU/Script/AG_GameManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+              <folding>
+                <marker date="1553188122597" expanded="false" signature="6:97" ph="..." />
+                <marker date="1553188122597" expanded="true" signature="142:760" ph="{...}" />
+                <marker date="1553188122597" expanded="true" signature="294:468" ph="{...}" />
+                <marker date="1553188122597" expanded="true" signature="383:462" ph="{...}" />
+                <marker date="1553188122597" expanded="true" signature="487:758" ph="{...}" />
+                <marker date="1553188122597" expanded="true" signature="539:752" ph="{...}" />
+                <marker date="1553188122597" expanded="true" signature="583:634" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/CBU/Script/AG_Cell.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="18" column="51" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
+              <folding>
+                <marker date="1553121853661" expanded="false" signature="6:78" ph="..." />
+                <marker date="1553121853661" expanded="true" signature="116:469" ph="{...}" />
+                <marker date="1553121853661" expanded="true" signature="232:296" ph="{...}" />
+                <marker date="1553121853661" expanded="true" signature="327:467" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/CBU/Script/AG_MovementTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/CBU/Script/AG_GameManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/CBU/Script/AG_Objects.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/CBU/Script/AG_Grid.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/CBU/Script/AG_Box.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/CBU/Script/AG_Wall.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/CBU/Script/AG_Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/CBU/Script/AG_Target.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/CBU/Script/AG_Cell.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/CBU/Script/AG_Movement.cs" />
+        <option value="$PROJECT_DIR$/Assets/CBU/Script/AG_IObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/CBU/Script/AG_IPushible.cs" />
+        <option value="$PROJECT_DIR$/Assets/CBU/Script/AG_Object.cs" />
+        <option value="$PROJECT_DIR$/Assets/CBU/Script/AG_PushibleObjects.cs" />
+        <option value="$PROJECT_DIR$/Assets/CBU/Script/AG_Cell.cs" />
+        <option value="$PROJECT_DIR$/Assets/CBU/Script/AG_Targets.cs" />
+        <option value="$PROJECT_DIR$/Assets/CBU/Script/AG_Box.cs" />
+        <option value="$PROJECT_DIR$/Assets/CBU/Script/AG_Target.cs" />
+        <option value="$PROJECT_DIR$/Assets/CBU/Script/AG_Wall.cs" />
+        <option value="$PROJECT_DIR$/Assets/CBU/Script/AG_Grid.cs" />
+        <option value="$PROJECT_DIR$/Assets/CBU/Script/AG_Objects.cs" />
+        <option value="$PROJECT_DIR$/Assets/CBU/Script/AG_Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/CBU/Script/AG_GameManager.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="240" />
+    <option name="y" value="125" />
+    <option name="width" value="1440" />
+    <option name="height" value="775" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="CBU" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="CBU" type="1045f7f1:UnityExplorerNode" />
+              <item name="Script" type="1045f7f1:UnityExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+        <option name="show-project-names" value="true" />
+      </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a507de77-9563-43fa-a998-7eff9c6b13ff" name="Default Changelist" comment="" />
+      <created>1552934365234</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552934365234</updated>
+      <workItem from="1552934369485" duration="350000" />
+      <workItem from="1552934756532" duration="136000" />
+      <workItem from="1553005642397" duration="6882000" />
+      <workItem from="1553108856987" duration="14771000" />
+      <workItem from="1553176448143" duration="8922000" />
+      <workItem from="1553188057461" duration="544000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="31605000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15302013" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Unity" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/CBU/Script/AG_Movement.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/CBU/Script/AG_IObject.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/CBU/Script/AG_IPushible.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/CBU/Script/AG_Object.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/CBU/Script/AG_PushibleObjects.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/CBU/Script/AG_Cell.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="18" column="51" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
+          <folding>
+            <marker date="1553121853661" expanded="false" signature="6:78" ph="..." />
+            <marker date="1553121853661" expanded="true" signature="116:469" ph="{...}" />
+            <marker date="1553121853661" expanded="true" signature="232:296" ph="{...}" />
+            <marker date="1553121853661" expanded="true" signature="327:467" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/CBU/Script/AG_GameManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+          <folding>
+            <marker date="1553188122597" expanded="false" signature="6:97" ph="..." />
+            <marker date="1553188122597" expanded="true" signature="142:760" ph="{...}" />
+            <marker date="1553188122597" expanded="true" signature="294:468" ph="{...}" />
+            <marker date="1553188122597" expanded="true" signature="383:462" ph="{...}" />
+            <marker date="1553188122597" expanded="true" signature="487:758" ph="{...}" />
+            <marker date="1553188122597" expanded="true" signature="539:752" ph="{...}" />
+            <marker date="1553188122597" expanded="true" signature="583:634" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/CBU/Script/AG_Box.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="4" column="32" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="32" />
+          <folding>
+            <marker date="1553177556949" expanded="false" signature="6:78" ph="..." />
+            <marker date="1553177556949" expanded="true" signature="112:559" ph="{...}" />
+            <marker date="1553177556949" expanded="true" signature="178:557" ph="{...}" />
+            <marker date="1553177556949" expanded="true" signature="247:512" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/CBU/Script/AG_Objects.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="42" />
+          <folding>
+            <marker date="1553187394941" expanded="false" signature="6:78" ph="..." />
+            <marker date="1553187394941" expanded="true" signature="128:1401" ph="{...}" />
+            <marker date="1553187394941" expanded="true" signature="220:521" ph="{...}" />
+            <marker date="1553187394941" expanded="true" signature="578:1240" ph="{...}" />
+            <marker date="1553187394941" expanded="true" signature="633:1195" ph="{...}" />
+            <marker date="1553187394941" expanded="true" signature="763:1139" ph="{...}" />
+            <marker date="1553187394941" expanded="true" signature="834:904" ph="{...}" />
+            <marker date="1553187394941" expanded="true" signature="966:1035" ph="{...}" />
+            <marker date="1553187394941" expanded="true" signature="1056:1125" ph="{...}" />
+            <marker date="1553187394941" expanded="true" signature="1281:1333" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/CBU/Script/AG_Target.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="20" />
+          <folding>
+            <marker date="1553179462981" expanded="false" signature="6:97" ph="..." />
+            <marker date="1553179462981" expanded="true" signature="134:497" ph="{...}" />
+            <marker date="1553179462981" expanded="true" signature="234:267" ph="{...}" />
+            <marker date="1553179462981" expanded="true" signature="286:495" ph="{...}" />
+            <marker date="1553179462981" expanded="true" signature="377:426" ph="{...}" />
+            <marker date="1553179462981" expanded="true" signature="439:489" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/CBU/Script/AG_Wall.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+          <folding>
+            <marker date="1553183103134" expanded="false" signature="6:78" ph="..." />
+            <marker date="1553183103134" expanded="true" signature="114:202" ph="{...}" />
+            <marker date="1553183103134" expanded="true" signature="177:199" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/CBU/Script/AG_MovementTest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1553184066872" expanded="false" signature="6:78" ph="..." />
+            <marker date="1553184066872" expanded="true" signature="124:526" ph="{...}" />
+            <marker date="1553184066872" expanded="true" signature="184:524" ph="{...}" />
+            <marker date="1553184066872" expanded="true" signature="227:375" ph="{...}" />
+            <marker date="1553184066872" expanded="true" signature="249:305" ph="{...}" />
+            <marker date="1553184066872" expanded="true" signature="325:367" ph="{...}" />
+            <marker date="1553184066872" expanded="true" signature="382:419" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/CBU/Script/AG_Grid.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <marker date="1553187429480" expanded="false" signature="6:78" ph="..." />
+            <marker date="1553187429480" expanded="true" signature="116:2327" ph="{...}" />
+            <marker date="1553187429480" expanded="true" signature="352:1121" ph="{...}" />
+            <marker date="1553187429480" expanded="true" signature="445:1115" ph="{...}" />
+            <marker date="1553187429480" expanded="true" signature="496:1105" ph="{...}" />
+            <marker date="1553187429480" expanded="true" signature="1173:1313" ph="{...}" />
+            <marker date="1553187429480" expanded="true" signature="1386:2325" ph="{...}" />
+            <marker date="1553187429480" expanded="true" signature="1518:2319" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/CBU/Script/AG_Player.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="752">
+          <caret line="94" column="25" selection-start-line="94" selection-start-column="25" selection-end-line="94" selection-end-column="25" />
+          <folding>
+            <marker date="1553187467149" expanded="false" signature="6:78" ph="..." />
+            <marker date="1553187467149" expanded="true" signature="118:2388" ph="{...}" />
+            <marker date="1553187467149" expanded="true" signature="290:335" ph="{...}" />
+            <marker date="1553187467149" expanded="true" signature="361:804" ph="{...}" />
+            <marker date="1553187467149" expanded="true" signature="559:641" ph="{...}" />
+            <marker date="1553187467149" expanded="true" signature="723:798" ph="/* if (timer &gt;= .35f) ... */" />
+            <marker date="1553187467149" expanded="true" signature="806:1045" ph="/* private void MoveAnimation() ... */" />
+            <marker date="1553187467149" expanded="true" signature="1075:1583" ph="{...}" />
+            <marker date="1553187467149" expanded="true" signature="1128:1202" ph="{...}" />
+            <marker date="1553187467149" expanded="true" signature="1252:1327" ph="{...}" />
+            <marker date="1553187467149" expanded="true" signature="1377:1452" ph="{...}" />
+            <marker date="1553187467149" expanded="true" signature="1503:1577" ph="{...}" />
+            <marker date="1553187467149" expanded="true" signature="1638:2049" ph="{...}" />
+            <marker date="1553187467149" expanded="true" signature="1693:2004" ph="{...}" />
+            <marker date="1553187467149" expanded="true" signature="1823:1948" ph="{...}" />
+            <marker date="1553187467149" expanded="true" signature="2091:2143" ph="{...}" />
+            <marker date="1553187467149" expanded="true" signature="2146:2386" ph="/* private void StillMove(int x, int y, int posx, int posy) ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\guvnc\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\guvnc\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_CBU - Sokoman.-1110513528.00" t="ExcludeRecursive" />
+    <e p="C:\Users\guvnc\Desktop\Unity Proje\Sokoban Level Editor\CBU - Sokoman\CBU - Sokoman" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="CBU" t="Include">
+          <e p="Script" t="Include">
+            <e p="AG_Box.cs" t="Include" />
+            <e p="AG_CBU.cs" t="Include" />
+            <e p="AG_Cell.cs" t="Include" />
+            <e p="AG_EditorWindpw.cs" t="Include" />
+            <e p="AG_GameManager.cs" t="Include" />
+            <e p="AG_Grid.cs" t="Include" />
+            <e p="AG_Level.cs" t="Include" />
+            <e p="AG_MovementTest.cs" t="Include" />
+            <e p="AG_Objects.cs" t="Include" />
+            <e p="AG_Player.cs" t="Include" />
+            <e p="AG_SpriteEditor.cs" t="Include" />
+            <e p="AG_Target.cs" t="Include" />
+            <e p="AG_UIManager.cs" t="Include" />
+            <e p="AG_Wall.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Guven" t="Include">
+          <e p="Plugins" t="Include">
+            <e p="Pixelplacement" t="Include">
+              <e p="iTween" t="Include">
+                <e p="iTween.cs" t="Include" />
+                <e p="ReadMe!" t="Include">
+                  <e p="ReadMe!.txt" t="Include" />
+                </e>
+                <e p="Sample" t="Include">
+                  <e p="MoveSample.cs" t="Include" />
+                  <e p="RotateSample.cs" t="Include" />
+                  <e p="SampleInfo.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+          </e>
+          <e p="Script" t="Include">
+            <e p="PlayerController.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="CBU - Sokoman.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
